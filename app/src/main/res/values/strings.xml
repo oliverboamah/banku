@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Banku</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_mobile_number">Enter Mobile number</string>
+    <string name="enter_password">Enter PIN</string>
+    <string name="confirm_password">Confirm PIN</string>
+    <string name="pitch1">Be a part of the big family</string>
+    <string name="pitch2">using the best mobile banking app in Africa</string>
+    <string name="pitch3">Let\'s get you logged in first</string>
+    <string name="pitch4">To enjoy an amazing experience</string>
+    <string name="no_account">No Account?</string>
+    <string name="register">Register</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="account_balance">Total Account Balance</string>
+    <string name="gh_40">GH 40.00</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="deposit">Deposit</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="send_money">Send Money</string>
+    <string name="invalid_login_detail">Invalid Mobile number or PIN</string>
+    <string name="success_deposit">Money deposited successfully!</string>
+    <string name="success_withdraw">Money withdrawed successfully!</string>
+    <string name="success_send_money">Money sent successfully!</string>
+    <string name="wrong_pin">Wrong PIN!</string>
+    <string name="not_enough_funds">Not enough funds to complete transaction!</string>
+    <string name="not_exist_recipient">Recipient Mobile Number doesn\'t exist!</string>
+    <string name="error_mobile_number_exists">Mobile number already exists!</string>
+</resources>
